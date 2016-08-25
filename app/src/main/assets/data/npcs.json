@@ -1,0 +1,9 @@
+{
+   "npcs":[
+      {
+         "name": "boy",
+         "sprites_folder":"sprites/agents/boy/",
+         "bounding_box":[[0,0], [1,0], [1, 0.25], [0, 0.25]]
+      }
+   ]
+}

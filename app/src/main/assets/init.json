@@ -1,0 +1,6 @@
+{
+   "hero":"data/hero",
+   "npcs":"data/npcs",
+   "bestiary":"data/bestiary",
+   "map":"map"
+}
