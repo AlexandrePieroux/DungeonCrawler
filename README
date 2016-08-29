@@ -1,5 +1,5 @@
 This project is initialy a school project that aim to develop an android application.
-The subject chosen is a 2D dungeon crawler that allow a users to define it's own level trough JSON files, however this allow to implmenet further level desing in-game.
+The subject chosen is a 2D dungeon crawler that allow a users to define it's own level through JSON files, however this allow to implmenet further level desing in-game.
 
 Depth information are found in the "report" folder that contain the official provided report for the course.
 
